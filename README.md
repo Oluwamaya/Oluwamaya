@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Gbolahan (Dev Maya) 👋
+Backend-focused fullstack engineer building payment-heavy products in production, mostly Node.js/TypeScript.
 
-<!--
-**Oluwamaya/Oluwamaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I've shipped
+- **Flurrypay**: fintech REST API for crypto + fiat across 10+ chains. SafeHaven bank transfers, BVN/NIN KYC, 2FA, Argon2, AES, TypeORM, 50+ service classes, Swagger docs.
+- **LuckyDrop**: gaming/payments platform. Fixed a production deposit-webhook bug and reconciled missed deposits with zero double-credits. Automated Paystack withdrawals and built real-time draw engines.
+- **Blastwave**: Email/SMS campaign SaaS (Brevo, Twilio). Claude-generated message variations with hash-based caching, and Paystack tiered subscriptions.
+- **QuizHopper**: real-time multiplayer quiz platform. Vue 3, Express, Redis (Upstash), Claude AI, Paystack.
+- **LASRO reporting system**: Laravel/MySQL on AWS for a Lagos State Government office.
 
-Here are some ideas to get you started:
+Most of this is private client work. I'm happy to walk through the architecture on a call.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Node.js · TypeScript · Express · Laravel · PostgreSQL · MongoDB · Redis · BullMQ · Socket.IO · Vue 3 · Angular · React · AWS · Render · Cloudflare
+
+📫 adeyemiawosemo@gmail.com · [LinkedIn](https://www.linkedin.com/in/omogbolahan/) · [Portfolio](https://mayacodeportfolio.vercel.app)
