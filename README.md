@@ -7,6 +7,7 @@ Backend-focused fullstack engineer building payment-heavy products in production
 - **Blastwave**: Email/SMS campaign SaaS (Brevo, Twilio). Claude-generated message variations with hash-based caching, and Paystack tiered subscriptions.
 - **QuizHopper**: real-time multiplayer quiz platform. Vue 3, Express, Redis (Upstash), Claude AI, Paystack.
 - **LASRO reporting system**: Laravel/MySQL on AWS for a Lagos State Government office.
+- **OTCI**: Lagos State Government CMS. React admin dashboard, Vue/Quasar public site, deployment and DNS.
 
 Most of this is private client work. I'm happy to walk through the architecture on a call.
 
